@@ -157,8 +157,9 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 
 ## Output
-<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/0cc0db3a-3c5c-4075-9700-8a6cb0614957" />
+<img width="1600" height="857" alt="WhatsApp Image 2026-11-06 at 19 02 38" src="https://github.com/user-attachments/assets/ca8acdcd-afe4-4da2-8d19-626bfbab9c51" />
 
+<img width="1600" height="787" alt="WhatsApp Image 2026-11-06 at 19 02 37" src="https://github.com/user-attachments/assets/a15f8e17-e8e0-46bf-a058-2eb30364d38b" />
 
 
 ## Result
